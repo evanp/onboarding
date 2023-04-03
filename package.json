@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vcard-parser": "^1.0.0"
+  }
+}
